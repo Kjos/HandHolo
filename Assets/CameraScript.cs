@@ -60,7 +60,6 @@ public class CameraScript : MonoBehaviour {
 	private bool gyroSupport; 
 
 	// sensitivity vars
-	public float speed = 4.0f; 
 	public float mouseSpeed = 1f;
 
 	private Camera camera;
